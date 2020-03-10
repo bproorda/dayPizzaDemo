@@ -1,7 +1,6 @@
 'use strict';
 console.log('This is the pizza tracker linking up');
-// var img1Clicked = 0;
-// var img2Clicked = 0;
+
 
 var pizzaIndex1 = 0;
 var pizzaIndex2 = 1;
